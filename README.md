@@ -1,4 +1,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## The link of the backend
+https://github.com/gaosijia1234/Largest_Image_Webpage_BackEnd/blob/master/README.md
+
+## The frontend should be a single page application with the following:
+a list of URL scrapes (both in progress and complete)\
+clicking one scrape should display details of the scrape:\
+URL\
+start date time\
+status\
+largest image regardless of whether in progress or complete\
+text field to submit a new URL scrape and the new URL scrape should appear in the in progress list
 
 ## Available Scripts
 
